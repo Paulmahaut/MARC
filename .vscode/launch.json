@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "cppvsdbg",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/build/${input:executableName}.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": true
+        },
+        {
+            "type": "cppvsdbg",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/build/${input:executableName}.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": true
+        }
+    ],
+    "inputs": [
+        {
+            "type": "promptString",
+            "id": "executableName",
+            "description": "Name of your executable"
+        },
+        {
+            "type": "promptString",
+            "id": "executableName",
+            "description": "Name of your executable"
+        }
+    ]
+}

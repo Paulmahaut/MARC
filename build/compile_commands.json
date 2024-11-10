@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/paulm/Documents/MARC/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\untitled1.dir\\main.c.obj -c C:\\Users\\paulm\\Documents\\MARC\\main.c",
+  "file": "C:/Users/paulm/Documents/MARC/main.c",
+  "output": "CMakeFiles/untitled1.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/paulm/Documents/MARC/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\untitled1.dir\\loc.c.obj -c C:\\Users\\paulm\\Documents\\MARC\\loc.c",
+  "file": "C:/Users/paulm/Documents/MARC/loc.c",
+  "output": "CMakeFiles/untitled1.dir/loc.c.obj"
+},
+{
+  "directory": "C:/Users/paulm/Documents/MARC/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\untitled1.dir\\moves.c.obj -c C:\\Users\\paulm\\Documents\\MARC\\moves.c",
+  "file": "C:/Users/paulm/Documents/MARC/moves.c",
+  "output": "CMakeFiles/untitled1.dir/moves.c.obj"
+},
+{
+  "directory": "C:/Users/paulm/Documents/MARC/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\untitled1.dir\\map.c.obj -c C:\\Users\\paulm\\Documents\\MARC\\map.c",
+  "file": "C:/Users/paulm/Documents/MARC/map.c",
+  "output": "CMakeFiles/untitled1.dir/map.c.obj"
+},
+{
+  "directory": "C:/Users/paulm/Documents/MARC/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\untitled1.dir\\queue.c.obj -c C:\\Users\\paulm\\Documents\\MARC\\queue.c",
+  "file": "C:/Users/paulm/Documents/MARC/queue.c",
+  "output": "CMakeFiles/untitled1.dir/queue.c.obj"
+},
+{
+  "directory": "C:/Users/paulm/Documents/MARC/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\untitled1.dir\\stack.c.obj -c C:\\Users\\paulm\\Documents\\MARC\\stack.c",
+  "file": "C:/Users/paulm/Documents/MARC/stack.c",
+  "output": "CMakeFiles/untitled1.dir/stack.c.obj"
+}
+]
